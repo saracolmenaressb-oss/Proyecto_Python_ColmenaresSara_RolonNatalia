@@ -1,3 +1,5 @@
+##Este es un borrador del proyecto
+
 import random
 from datetime import datetime, timedelta
 
