@@ -22,7 +22,16 @@ campers_cursando={
     "riesgo": None,
     "estado": "Aprobado"
 }
-nuevo_Camper=[]
+nuevo_Camper={
+        "nombre": nombre,
+        "apellido": apellido,
+        "ID": ID,
+        "estado": estado,
+        "Dirección": Direccion,
+        "Acudiente": Acudiente,
+        "Teléfono": telefono,
+        "Riesgo": riesgo
+    }
 lista_campers = []
 nombres = ["Juan","Maria","Luis","Ana","Carlos","Elena","Diego","Paula","Andrés","Lucía"]
 apellidos = ["Arias","Castro","Vargas","Ríos","Duarte","Peña","López","García","Marín"]
